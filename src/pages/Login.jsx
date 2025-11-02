@@ -21,7 +21,7 @@ const Login = () => {
     setError('');
 
     const adminCredentials = [
-      { username: 'teacher1', password: 'teach123' },
+      { username: 'bala', password: 'bala123' },
       { username: 'teacher2', password: 'teach456' },
     ];
 
